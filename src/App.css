@@ -1,0 +1,28 @@
+ 
+button:hover {
+  
+  transform: translateY(-0.1em);
+}
+
+button:active {
+  box-shadow: inset 0px 0.1em 0.6em #3c4fe0;
+  transform: translateY(0em);
+} 
+/* 
+.HeroSection{
+  background-image: url("src/Images/healthy-food-background-fruits-berries-nuts-cereals_1077884-13006.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+  
+} */
+  
+.TEXT{
+  text-shadow: 0 0 10px cyan,
+  0 0 20px cyan,
+  0 0 40px cyan,
+  0 0 80px cyan
+  
+  ;
+}
